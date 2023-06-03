@@ -1,0 +1,20 @@
+{
+  "name": "unit_testing_basics",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest" : {
+    "collectCoverage" : true
+  },
+  "keywords": [
+    "unit_testing"
+  ],
+  "author": "paresh",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
